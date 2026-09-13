@@ -194,7 +194,7 @@ If you need to reset the database:
 ```bash
 cd server
 # Stop the server first
-mysql -u root -pMeetshah@1801 -e "DROP DATABASE hostel_management;"
+mysql -u root -p************* -e "DROP DATABASE hostel_management;"
 # Restart server to recreate tables and triggers
 npm start
 ```
